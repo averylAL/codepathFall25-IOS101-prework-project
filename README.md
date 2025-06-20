@@ -29,6 +29,7 @@ The following **required** functionality is completed:
 ### App Idea 
 
 I’d like to create an app called **StudyMatch**, designed to help students find accountability partners for focused study sessions. 
+
 Features:
 - Users can set their study availability and goals, like "Study algorithms from 8–10 PM", and get matched with others who have similar time slots or subjects. 
 - Once matched, users can join a virtual study room, with optional features like timers, focus mode, and brief check-in messages.  
