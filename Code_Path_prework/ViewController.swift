@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Code_Path_prework
 //
-//  Created by R Liew on 6/19/25.
+//  Created by A Liew on 6/19/25.
 //
 
 import UIKit
@@ -16,7 +16,7 @@ class ViewController: UIViewController {
 
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
         let randomColor = changeColor();
-        view.backgroundColor = randomColor
+        self.view.backgroundColor = randomColor
     }
     
     func changeColor() -> UIColor{
