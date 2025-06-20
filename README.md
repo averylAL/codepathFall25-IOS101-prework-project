@@ -12,6 +12,9 @@ The following **required** functionality is completed:
 
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
+
+## Video Walkthrough
+[Guide]](https://drive.google.com/drive/folders/1O5wNJ6vXd5SM-_xl004zmOfL0Ymw8y-E?usp=sharing) .
  
 ## App Brainstorming (Step 4)
 1. **Instagram**
